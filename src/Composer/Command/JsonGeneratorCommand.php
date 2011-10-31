@@ -14,7 +14,7 @@ use Symfony\Component\Console\Input\InputOption;
 /**
  * JsonGeneratorCommand class
  *
- * @author Benjamin Grandfond <benjaming@theodo.fr>
+ * @author Benjamin Grandfond <benjamin.grandfond@gmail.com>
  * @since 30/10/11
  */
 class JsonGeneratorCommand extends Command

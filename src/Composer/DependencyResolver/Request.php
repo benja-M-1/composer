@@ -19,7 +19,7 @@ use Composer\Package\LinkConstraint\LinkConstraintInterface;
  */
 class Request
 {
-    protected $jobs;
+    protected $jobs = array();
     protected $pool;
 
     public function __construct(Pool $pool)
